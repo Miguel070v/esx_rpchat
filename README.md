@@ -1,4 +1,4 @@
-# esx_rpchat Español modificado con chat de proximidad para Onesync Infinity.
+# esx_rpchat
 Esta es una modificación del archivo esx_rpchat con adaptaciones para Onesync infinity, con chat de OOP, y OOC, y todo lo necesario para roleplay.
 Discord: iTzMiguel070#0069
 
